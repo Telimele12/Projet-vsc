@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+}
+header{
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+img{
+    width:100%;
+    height: auto;
+    border-radius: 5pc;
+}
+footer{
+    text-align: center;
+    background-color: #9225c5;
+    color: white;
+    padding: 10px;
+}
+.she-works-in-tech{
+
+    font-size: 24px;
+    color: #c41e79;
+}
+.la-vie-du-numerique {
+    padding: 1Opx;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.la-vie-du-numerique {
+    border-color: #333;
+    color: #4CAF50;
+}
+.mes-loisirs {
+    padding: 20px;
+    background-color: #9225c5;
+    color: bisque;
+    border-radius: 5px;
+}
